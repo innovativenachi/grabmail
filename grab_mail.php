@@ -42,7 +42,7 @@
 			{
 				echo "<PRE>There are $messages messages in the mail box with a total of $size bytes.</PRE>\n";
 				$count=$messages-3;
-				for($i=$messages;$i>=$count;$i--)
+				for($i=$messages;$i>=$count;$i--) // grabs last 3 mails
 				{
 					if($messages>0)
 					{
