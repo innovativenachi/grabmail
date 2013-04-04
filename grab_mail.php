@@ -12,9 +12,9 @@
 </HEAD>
 <BODY>
 <?php
-	require("pop3.class.php");
-	require('mime_parser.php');
-	require('rfc822_addresses.php');
+	require("classes/pop3.class.php");
+	require('classes/mime_parser.php');
+	require('classes/rfc822_addresses.php');
     
 	stream_wrapper_register('pop3', 'pop3_stream'); 
 	
