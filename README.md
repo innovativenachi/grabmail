@@ -15,7 +15,7 @@ $user="**********"   /* Authentication email        */
 $password="*******"; /* Authentication password     */
 </pre>
 
-change the pop3 server according to your provider.
+Change the pop3 server according to your provider.
 
 <pre>
 $pop3->hostname="pop.gmail.com";  /* POP 3 server host name for gmail */
