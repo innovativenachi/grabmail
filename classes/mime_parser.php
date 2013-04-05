@@ -1,7 +1,7 @@
 <?php
 /*
  * mime_parser.php
- *
+ * @(#) $Id: mime_parser.php,v 1.85 2012/08/23 12:19:59 mlemos Exp $
  * Opensource class used by Nachi
  *
  */

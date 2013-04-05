@@ -1,7 +1,7 @@
 <?php
 /*
  * rfc822_addresses.php
- *
+ * @(#) $Id: rfc822_addresses.php,v 1.15 2011/10/29 09:11:50 mlemos Exp $
  * Opensource class used by Nachi
  *
  */

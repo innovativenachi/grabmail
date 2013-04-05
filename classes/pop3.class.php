@@ -1,7 +1,7 @@
 <?php
 /*
  * pop3.class.php
- *
+ * @(#) $Header: /home/mlemos/cvsroot/pop3/pop3.php,v 1.23 2009/01/31 04:06:12 mlemos Exp $
  * Opensource class used by Nachi
  *
  */
